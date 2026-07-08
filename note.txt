@@ -1,0 +1,8 @@
+TwmjspuE72IzSr9t
+===========
+HOST = gateway01.us-east-1.prod.aws.tidbcloud.com
+PORT = 4000
+USERNAME = 32CGpYZjXBCiFWa.root
+Database = test
+
+PASSWORD = TwmjspuE72IzSr9t
